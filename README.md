@@ -1,4 +1,4 @@
-## 👋 Welcome, My Name is Keiran Bunyan 👋
+## 👋 Welcome, my name is Keiran Bunyan 👋
 
 I am a passionate web developer who is seeking an entry-level/graduate position.
 
