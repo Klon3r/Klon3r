@@ -1,10 +1,17 @@
-## 👋 Welcome, my name is Keiran Bunyan 👋
+# 👋 Welcome, my name is Keiran Bunyan 👋
 
-I am a passionate web developer who is seeking an entry-level/graduate position.
+*"One day challenged myself to learn web development since I didn't know anything about it, fast forward ...well turns out that I fell in love with it."*
 
-I love programming and have a strong desire to contribute to innovative projects and gain practical experience in the industry. I thrive on the challenge of turning problems into elegant, functional solutions.
 
-### Skills
+I just recently graduated from a **Computer Science Degree**, I specialise in web development and I am seeking an entry-level/graduate position.
+
+- I love all things programming & linux.
+- I love problem solving and thinking about ways to solve problems.
+- I love spending my free time working on my projects.
+
+I have a strong desire to gain practical experience within the tech industry & work on projects with others.
+
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
@@ -12,20 +19,6 @@ I love programming and have a strong desire to contribute to innovative projects
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### Contact
+## Contact
+
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=8132A8)](mailto:bunyan.keiran@gmail.com)
-
-<!--
-**Klon3r/Klon3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
